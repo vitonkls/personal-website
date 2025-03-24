@@ -4,6 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    flex-direction: column;
+    text-align: center;
 }
 
 img {
