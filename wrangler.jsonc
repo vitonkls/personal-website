@@ -1,9 +1,8 @@
-```
+
 {
-    "name": "worker-name",
+    "name": "vito",
     "compatibility_date": "2025-03-24",
     "assets": {
         "directory": "./dist"
     }
 }
-```
